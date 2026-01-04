@@ -1,11 +1,20 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  background: #524191;
+}
+
 .container {
   width: 300px;
-  margin: 20px auto;
   padding: 15px;
   border-radius: 10px;
   background: #ce5959;
   text-align: center;
 }
+
 
 ul {
   padding: 0;
